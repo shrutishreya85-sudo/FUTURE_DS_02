@@ -87,9 +87,7 @@ The Power BI dashboard includes:
 - **CSV Dataset**  
 - **Data Cleaning & Visualization**  
 
----
 
-## 📂 **File Structure**
 
 ---
 
